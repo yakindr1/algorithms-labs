@@ -1,26 +1,28 @@
 # Алгоритмы и структуры данных
 
-Лабораторные работы. РГРТУ, 3 семестр.
+Лабораторные работы. РГРТУ, 3 семестр. Язык — C++.
 
 ## Работы
 
-* [Оценка сложности и сортировки](complexity-and-sorting) - [условие](complexity-and-sorting/README.md)
+* [1. Реализация методов внутренней сортировки](01-internal-sorting) - [условие](01-internal-sorting/README.md)
 
-* [Списки, стеки, очереди](linear-structures) - [условие](linear-structures/README.md)
+* [2. Бинарный поиск и поиск по ответу](02-binary-search) - [условие](02-binary-search/README.md)
 
-* [Куча и очередь с приоритетом](heaps) - [условие](heaps/README.md)
+* [3. Стек, очередь, дек](03-stack-queue-deque) - [условие](03-stack-queue-deque/README.md)
 
-* [Хеш-таблицы](hash-tables) - [условие](hash-tables/README.md)
+* [4. Приоритетная очередь](04-priority-queue) - [условие](04-priority-queue/README.md)
 
-* [Деревья поиска](search-trees) - [условие](search-trees/README.md)
+* [5. Бинарные деревья поиска](05-binary-search-trees) - [условие](05-binary-search-trees/README.md)
 
-* [Графы: обходы и компоненты связности](graphs-traversal) - [условие](graphs-traversal/README.md)
+* [6. Обходы графа: DFS и BFS](06-graph-traversal) - [условие](06-graph-traversal/README.md)
 
-* [Графы: кратчайшие пути](graphs-shortest-paths) - [условие](graphs-shortest-paths/README.md)
+* [7. Кратчайшие пути на графе](07-shortest-paths) - [условие](07-shortest-paths/README.md)
 
-* [Графы: минимальные остовные деревья](graphs-mst) - [условие](graphs-mst/README.md)
+* [8. Хеш-функции и хеш-таблицы](08-hashing) - [условие](08-hashing/README.md)
 
-* [Динамическое программирование](dynamic-programming) - [условие](dynamic-programming/README.md)
+## Материалы
 
-* [Алгоритмы на строках](strings) - [условие](strings/README.md)
-
+* [Контесты к лабораторным, informatics](https://informatics.msk.ru/course/view.php?id=5956)
+* [Справочник по алгоритмам, Яндекс](https://education.yandex.ru/handbook/algorithms)
+* [Algorithmica: анализ сложности](https://ru.algorithmica.org/cs/complexity/)
+* [VisuAlgo: визуализация структур данных](https://visualgo.net/en)
